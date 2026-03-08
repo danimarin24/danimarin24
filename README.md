@@ -50,7 +50,7 @@
 </table>
 <h3>👁️ Where to find me</h3>
 <p>
-  <a href="https://github.com/danimarin24" target="_blank">
+  <a href="https://github.com/danimarindev" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://x.com/danimarin_04" target="_blank">
@@ -62,7 +62,7 @@
 </p>
 
 <h3>🎖️ GitHub Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=danimarin24&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=danimarindev&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ---
 
