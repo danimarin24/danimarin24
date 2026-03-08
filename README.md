@@ -49,21 +49,4 @@
   </tbody>
 </table>
 <h3>👁️ Where to find me</h3>
-<p>
-  <a href="https://github.com/danimarindev" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://x.com/danimarin_04" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-1ca0f1?style=for-the-badge&labelcolor=1ca0f1&logo=x&logocolor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/danimarines" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<h3>🎖️ GitHub Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=danimarindev&amp;show_icons=true" alt="GitHub Stats"></p>
-
----
-
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday 25 September at 12:20 CEST</p>
+<p><a href="https://github.com/danimarindev" style="text-decoration:none;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><a href="https://x.com/danimarin_04" style="text-decoration:none;"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a><a href="https://www.linkedin.com/in/danimarines" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
